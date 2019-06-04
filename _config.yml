@@ -1,0 +1,31 @@
+title: Sashank Mishra
+description: "My Homepage"
+url: "https://sashank27.github.io"
+
+# paginate: 5
+# paginate_path: "/page:num/"
+# plugins: [jekyll-paginate]
+
+markdown: kramdown
+highlighter: rouge
+
+social-accounts:
+  facebook: "sashank.mishra.27"
+  twitter: "sashank_27"
+  googleplus: ""
+  github: "sashank27"
+  email: "sashankmishra27@gmail.com"
+  linkedin: "in/sashank27"
+
+author:
+  name: "Sashank Mishra"
+  jobTitle: "Third Year Undergraduate, IT"
+  orgName: "IIIT Allahabad"
+  orgURL: "https://www.iiita.ac.in/"
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# google_analytics:
+# disqus_shortname:
