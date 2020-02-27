@@ -63,6 +63,35 @@ type: home
 </div>
 
 <!-- -------------------------------------------- -->
+<!-- Experiences Section -->
+<!-- -------------------------------------------- -->
+<section class="border-top" id="experiences"></section>
+<div class="row">
+  <div class="col-xs-12 col-md-4 portrait">
+    <h1 class="post-title display-4">Work Experience</h1>
+    <!-- <p class="text-muted">work in progress...</p> -->
+    <br><br>
+  </div>
+
+  <div class="col-xs-12 col-md-8">
+    {% for experiences in site.categories.experiences %}
+      <div class="experiences border-bottom">
+        <div class="experiences-header">
+          <a href="{{ site.baseurl }}{{ experiences.url }}" target="_blank" class="project-footer">
+            <h5 class="experiences-title">{{ experiences.title }}</h5>
+          </a>
+          <!-- <h4 class="experiences-date"><small class="text-muted">{{ post.date | date: "%B %-d, %Y" }}</small></h4> -->
+        </div>
+        <div class="experiences-content">
+          <p>{{ experiences.abstract }}</p>
+        </div>
+
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- -------------------------------------------- -->
 <!-- Project Section -->
 <!-- -------------------------------------------- -->
 <section class="border-top" id="projects"></section>

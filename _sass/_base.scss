@@ -10,6 +10,10 @@ body {
   padding: 2rem 0rem;
 }
 
+#experiences {
+  padding: 2rem 0rem;
+}
+
 .project {
   margin-bottom: 1.5rem;
 }
@@ -35,6 +39,35 @@ body {
   text-justify: inter-word;
 }
 .project-footer {
+  padding-top: 0.7rem;
+}
+
+.experiences {
+  margin-bottom: 1.5rem;
+}
+
+.experiences-header{
+
+}
+.experiences-tag{
+
+}
+.experiences-nav {
+  padding: 0.6rem;
+  text-align: center;
+}
+.experiences-tag-content {
+}
+.experiences-title {
+  margin-bottom: 0;
+}
+.experiences-content {
+  // padding-top: 0.2rem;
+  font-size: 1rem;
+  text-align: justify;
+  text-justify: inter-word;
+}
+.experiences-footer {
   padding-top: 0.7rem;
 }
 

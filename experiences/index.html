@@ -1,0 +1,23 @@
+---
+layout: page
+---
+<div class="hero">
+  <h1 class="display-3">Work Experience</h1>
+  <p class="lead">The true sign of intelligence is not knowledge but imagination. - Albert Einstein</p>
+</div>
+
+<!-- This loops through the paginated posts -->
+{% for post in site.categories.experiences %}
+  <div class="experiences border-top">
+    <div class="experiences-header">
+      <h1 class="experiences-title">{{ post.title }}</h1>
+      <h4 class="experiences-date"><small class="text-muted">{{ post.date | date: "%B %-d, %Y" }}</small></h4>
+    </div>
+    <div class="experiences-content lead">
+      <p>{{ post.excerpt }}</p>
+    </div>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="experiences-footer">
+      <button type="button" class="btn btn-outline-primary">READ MORE</button>
+    </a>
+  </div>
+{% endfor %}
