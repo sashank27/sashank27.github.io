@@ -18,9 +18,9 @@ social-accounts:
 
 author:
   name: "Sashank Mishra"
-  jobTitle: "Fourth Year Undergraduate, IT"
-  orgName: "IIIT Allahabad"
-  orgURL: "https://www.iiita.ac.in/"
+  jobTitle: "Software Development Engineer - I"
+  orgName: "Cisco Systems, Inc."
+  orgURL: "https://www.cisco.com/"
 
 sass:
   sass_dir: _sass

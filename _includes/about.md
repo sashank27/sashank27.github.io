@@ -1,3 +1,3 @@
-I'm an undergraduate student in Information Technology at <a href="http://www.iiita.ac.in/">Indian Institute of Information Technology, Allahabad</a>. I'm motivated towards <b>Machine Learning</b>, and its application in various domains. I also find myself interested towards <b>Deep Learning</b>, <b>Astronomy</b>.
-<br><br>
-Apart from academics, I love to read <b>Fiction</b>, listen to <b>Music</b>, and waste my time watching <b>TV Series</b> and spending time alone absolutely thinking nothing... <i class="far fa-grin-tongue-squint"></i> <i class="far fa-grin-tongue-squint"></i>
+✨ I am a Software Engineer at Cisco Systems Inc., and a Computer Science Undergrad at <a href="http://www.iiita.ac.in/">IIIT Allahabad</a>, India (class of 2020). I originally hail from Kanpur, Uttar Pradesh, India. I am an advocate for building open-source projects. Sharing what I know and continue to learn about programming is the thing I love doing!  
+
+Besides tech, I am an Astronomy enthusiast 🔭 (loves gazing the night sky 🌌 ), a foodie, and an avid book reader 📖, preferring Thriller, Fantasy, and Sci-Fi fiction. I love traveling and exploring new places, and have a varied taste in music🎧.

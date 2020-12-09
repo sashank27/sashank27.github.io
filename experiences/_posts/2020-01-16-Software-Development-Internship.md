@@ -3,8 +3,6 @@ layout: post
 title: Software Development Internship
 abstract: Cisco Systems Inc., Bangalore 
 ---
-- Technology Stack – Python, Pytest, Cafy, IOS-XR
-- Working under the Service Provider (SP) team to develop the Automation Support for testing the Cloud Native BNG
-(Broadband Network Gateway) in Cafy.
-- At present, cnBNG will be supported on ASR9000 routers, having the IOS-XR 7.0 platform.
-- Working with the configuration and testing using the ASR9k and Spirent Test Center.
+- Worked to develop Infrastructure for Solution Test Automation for Cloud Native Broadband Network Gateway (CnBNG).
+- Developed the support in the Crosswork Qualification Environment (CQE) for interacting with the cloud-deployed Control Plane and IOS-XR deployed User Plane, using both Command line Interface and through Netconf/YANG.
+- Created the core infrastructure for handling a new type of OS – cloudnative, for handling the Control Plane, in the environment from scratch.
