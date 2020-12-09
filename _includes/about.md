@@ -1,3 +1,3 @@
-✨ I am a Software Engineer at Cisco Systems Inc., and a Computer Science Undergrad at <a href="http://www.iiita.ac.in/">IIIT Allahabad</a>, India (class of 2020). I originally hail from Kanpur, Uttar Pradesh, India. I am an advocate for building open-source projects. Sharing what I know and continue to learn about programming is the thing I love doing!  
-
-Besides tech, I am an Astronomy enthusiast 🔭 (loves gazing the night sky 🌌 ), a foodie, and an avid book reader 📖, preferring Thriller, Fantasy, and Sci-Fi fiction. I love traveling and exploring new places, and have a varied taste in music🎧.
+I am a Software Engineer at Cisco Systems Inc., and a Computer Science Undergrad at <a href="http://www.iiita.ac.in/">IIIT Allahabad</a>, India (class of 2020). I originally hail from Kanpur, Uttar Pradesh, India. I am a strong advocate for building open-source projects. Sharing what I know and continue to learn about programming is the thing I love doing!
+<br><br>
+Besides tech, I am an Astronomy enthusiast 🔭 (loves gazing the night sky 🌌  ), a foodie, and an avid book reader 📖, preferring Thriller, Fantasy, and Sci-Fi fiction. I love traveling and exploring new places, and have a varied taste in music 🎧.
